@@ -17,4 +17,5 @@
     git add . - to add a version, DO THIS EVERY TIME
     git commit -m "[clear message describing the changes you made]" - when updating version- do this every time
     git push origin master - do this every time when updating, it will push to git hub 
+    press Q to get out of the log. 
 
