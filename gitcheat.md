@@ -1,4 +1,4 @@
-
+This is the commands we learned!
     git config --global user.name "[name]
     git config --global user.email "[email address]
     git config --list
